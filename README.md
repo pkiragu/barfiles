@@ -1,2 +1,2 @@
 # hello-world
-sample github tutorial. This is an edit to the branch version.
+Sample bar files used for personal testing of App Connect I.S.
